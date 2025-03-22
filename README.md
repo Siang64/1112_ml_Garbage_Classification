@@ -78,10 +78,6 @@ ResNet50V2 的表現最佳，主要因為 **殘差網路 (Residual Block) 架構
 python predict.py --image path/to/image.jpg
 ```
 
-## 9. 未來改進方向
-- 擴增資料集，提高多樣性。
-- 微調模型參數，提升分類準確率。
-- 開發 Web 應用，提供即時垃圾分類服務。
 
 
 
